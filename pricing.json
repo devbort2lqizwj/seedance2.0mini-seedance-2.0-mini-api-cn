@@ -1,0 +1,15 @@
+{
+  "repo": "seedance2.0mini-seedance-2.0-mini-api-cn",
+  "model": "seedance-2.0-mini",
+  "display": "Seedance 2.0 Mini",
+  "variant": "model-cn",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "480P-input": 0.0064,
+    "480P": 0.01056,
+    "720P-input": 0.01384,
+    "720P": 0.02288
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
